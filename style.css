@@ -1,0 +1,35 @@
+.copy_right_footer{
+    position:fixed ;
+    bottom: 0;
+    width: 100%;
+    text-align:center;
+}
+img{
+box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+border-radius: 50%;
+
+}
+img:hover{
+    border-radius: 140px;
+}
+h1{
+    font-family: 'Comfortaa', cursive;
+    font-style: oblique;
+    font-weight: normal;
+}
+h4{
+    font-family: 'Comfortaa', cursive;
+    font-style: oblique;
+    font-weight: normal;
+}
+#camera{
+    border-style:ridge;
+    border-width: 9px;
+    border-color: aqua;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+}
+body{
+    text-align:center;
+}
